@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shridhara Av</h1>
 <h3 align="center">A passionate developer</h3>
-<img align='right' alt='Coding' width="400" src="https://sagaratechnology.medium.com/what-does-it-mean-by-full-stack-development-d07b3f5aa5c3">
+<img align='right' alt='Coding' width="400" src="[https://sagaratechnology.medium.com/what-does-it-mean-by-full-stack-development-d07b3f5aa5c3](https://steamcommunity.com/sharedfiles/filedetails/?id=2217383700)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreeav&label=Profile%20views&color=0e75b6&style=flat" alt="shreeav" /> </p>
 
